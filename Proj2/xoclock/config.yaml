@@ -1,0 +1,4 @@
+worker:
+  "Proj2::Worker": "Proj2::Worker::XOClock::Sample"
+lib:
+  - "/Users/karupanerura/demos/XOClock/Proj2/lib"

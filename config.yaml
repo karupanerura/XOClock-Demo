@@ -1,0 +1,3 @@
+max_workers: 10
+config_file:
+  - "*/xoclock/config.yaml"
